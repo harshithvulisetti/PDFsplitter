@@ -165,4 +165,4 @@ def download_zip(output_folder):
     return send_file(zip_path, as_attachment=True, download_name=zip_filename)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False)
