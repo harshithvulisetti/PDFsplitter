@@ -1,0 +1,3 @@
+flask 
+PyMuPDF 
+PyPDF2
